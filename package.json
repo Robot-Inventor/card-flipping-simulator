@@ -1,0 +1,16 @@
+{
+  "name": "card-flipping-simulator",
+  "version": "1.0.0",
+  "description": "[ブルーアーカイブ](https://bluearchive.jp/)のミニゲーム「カードめくり」のシミュレーターです。どのめくり方の効率が一番よいのかを調べられます。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "author": "Robot-Inventor",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
